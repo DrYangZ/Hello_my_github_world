@@ -19,7 +19,7 @@
   <td>https://github.com/WZMIAOMIAO/deep-learning-for-image-processing</td>  
 </tr>  
 <tr>  
-  <td >Vedio（原单元格5和6）</td>
+  <td >Vedio</td>
   <td >https://space.bilibili.com/18161609</td>  
 </tr>  
 </table>
