@@ -24,5 +24,6 @@
 </tr>  
 </table>
 - Test for image:
-![我喜欢史蒂芬·库里](https://ts1.cn.mm.bing.net/th/id/R-C.033d4e58f8e18bef369ea02407e9ded2?rik=kZj8PBe8UfY8%2fg&riu=http%3a%2f%2fimg.touxiangwu.com%2fuploads%2fallimg%2f2021112611%2fbtgma0im33b.jpg&ehk=vS3ovUFBm5d4LzITVwWlwcQfWMk9KztAG7ZdrXJQPR0%3d&risl=&pid=ImgRaw&r=0)
+![库里猴子](https://github.com/DrYangZ/Hello_my_github_world/assets/68727867/b925becb-05e3-49e1-b289-6bdd5072727e)
+
 
