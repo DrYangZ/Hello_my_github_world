@@ -16,10 +16,10 @@
 <tr>  
   <td rowspan="2">霹雳吧啦Wz</td>  
   <td>Code</td>  
-  <td>[WZMIAOMIAO的Github链接](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)</td>  
+  <td>https://github.com/WZMIAOMIAO/deep-learning-for-image-processing</td>  
 </tr>  
 <tr>  
   <td >Vedio（原单元格5和6）</td>
-  <td >[霹雳吧啦Wz的B站链接](https://space.bilibili.com/18161609)</td>  
+  <td >https://space.bilibili.com/18161609</td>  
 </tr>  
 </table>
