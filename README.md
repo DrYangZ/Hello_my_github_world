@@ -24,6 +24,4 @@
 </tr>  
 </table>
 - Test for image:
-![库里猴子](https://github.com/DrYangZ/Hello_my_github_world/assets/68727867/b925becb-05e3-49e1-b289-6bdd5072727e)
-
-
+![image](https://github.com/DrYangZ/Hello_my_github_world/assets/68727867/4a2ca7e2-038e-4b09-902e-86952d01d7c5)
