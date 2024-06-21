@@ -23,5 +23,5 @@
   <td >https://space.bilibili.com/18161609</td>  
 </tr>  
 </table>
-- Test for image:
+- Test for image
 ![image](https://github.com/DrYangZ/Hello_my_github_world/assets/68727867/4a2ca7e2-038e-4b09-902e-86952d01d7c5)
