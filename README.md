@@ -1,4 +1,4 @@
-![Picture1](https://github.com/DrYangZ/Hello_my_github_world/assets/68727867/c35e4e32-4a3d-48fd-b2f5-d314c1ffda6e)# Hello Artifitial Intelligence
+# Hello Artifitial Intelligence
   ## This is the repository of Computer Vision
   ### For Computer Vision, See the chart below:
 - Markdown language
@@ -24,4 +24,5 @@
 </tr>  
 </table>
 - Test for image:
-![库里头像](https://github.com/DrYangZ/Hello_my_github_world/assets/68727867/ab057065-d648-406f-ac73-24de430454e5)
+![我喜欢史蒂芬·库里](https://ts1.cn.mm.bing.net/th/id/R-C.033d4e58f8e18bef369ea02407e9ded2?rik=kZj8PBe8UfY8%2fg&riu=http%3a%2f%2fimg.touxiangwu.com%2fuploads%2fallimg%2f2021112611%2fbtgma0im33b.jpg&ehk=vS3ovUFBm5d4LzITVwWlwcQfWMk9KztAG7ZdrXJQPR0%3d&risl=&pid=ImgRaw&r=0)
+
