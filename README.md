@@ -23,5 +23,4 @@
   <td >https://space.bilibili.com/18161609</td>  
 </tr>  
 </table>
-- Test for image
-![image](https://github.com/DrYangZ/Hello_my_github_world/assets/68727867/4a2ca7e2-038e-4b09-902e-86952d01d7c5)
+![夏威夷](https://github.com/DrYangZ/Hello_my_github_world/assets/68727867/4367880b-d4ad-45e0-828d-a372e80f7240)
