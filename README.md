@@ -5,7 +5,7 @@
   |---|---|---|
   |霹雳吧啦Wz|Code|[WZMIAOMIAO的Github链接](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)|
   |霹雳吧啦Wz|Vedio|[霹雳吧啦Wz的B站链接](https://space.bilibili.com/18161609)|
-  <table border="1">  
+  <table border="2">  
 <tr>  
   <th>表头1</th>  
   <th>表头2</th>  
@@ -17,7 +17,6 @@
   <td>单元格3</td>  
 </tr>  
 <tr>  
-  <td>单元格5</td>  
-  <td>单元格6</td>  
+  <td colspan="2">合并的单元格（原单元格5和6）</td>  
 </tr>  
 </table>
